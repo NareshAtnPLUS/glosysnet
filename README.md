@@ -2,12 +2,13 @@
 
 This is a package that contains all mathematical tools requied for deep learning.
 Current version many NeuralNet Functions
-			1.Activation functions
-			   - Sigmoid
-			   - tanh
-			   - relu
-			   - leaky_relu
-			   - elu 
+1.Activation functions
+* Sigmoid
+* tanh
+* relu
+* leaky_relu
+* elu 
+
 			2.Classifier functions
 			   - SoftMax
 			3.Loss functions
