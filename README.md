@@ -1,7 +1,7 @@
 # Glosysnet
 
 This is a package that contains all mathematical tools requied for deep learning.
-Current version many 
+Current version contains 
 
 ### NeuralNet Functions
 
