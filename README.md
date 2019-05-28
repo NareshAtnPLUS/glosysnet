@@ -1,7 +1,10 @@
 # Glosysnet
 
 This is a package that contains all mathematical tools requied for deep learning.
-Current version many NeuralNet Functions
+Current version many 
+
+###NeuralNet Functions
+
 1.Activation functions
 * Sigmoid
 * tanh
@@ -9,21 +12,24 @@ Current version many NeuralNet Functions
 * leaky_relu
 * elu 
 
-			2.Classifier functions
-			   - SoftMax
-			3.Loss functions
-			   - Mean Square
-			   - Mean Absolute
-			   - Mean Bias
-			   - Logistic loss or negative log likelihood
-			4. Optimization Functions
-			   - Stohastic Gradient Descent
-			   - Adagrad
-			   - RMSProp
-and vision functions 
-			1.Convoluion
-			   - conv2D
-			   - maxpooling
+2.Classifier functions
+* SoftMax
+
+3.Loss functions
+* Mean Square
+* Mean Absolute
+* Mean Bias
+* Logistic loss or negative log likelihood
+
+4. Optimization Functions
+* Stohastic Gradient Descent
+* Adagrad
+* RMSProp
+
+### vision functions 
+1.Convoluion
+* conv2D
+* maxpooling
 ##	Building the package from source code
 run this command to build package
 ```bash
