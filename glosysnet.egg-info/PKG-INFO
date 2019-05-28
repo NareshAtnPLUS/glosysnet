@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: glosysnet
+Version: 0.0.1
+Summary: Package containing all Machine Learning and Deep Learning Tools
+Home-page: https://gitlab.com/nareshkumarAtnPLUS/glosysnet.git
+Author: Naresh Kumar
+Author-email: nareshkumarAtnPLUS@gmail.com
+License: UNKNOWN
+Description: # Neural Net Tool Package
+        
+        This is a neural net tool package. You can use
+        [Gitlab-flavored Markdown](https://gitlab.com/nareshkumarAtnPLUS/neural-net-tools.git)
+        to write your content.
+        
+        ##	run this command to build package
+        python setup.py sdist bdist_wheel
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
