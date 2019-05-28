@@ -3,7 +3,7 @@
 This is a package that contains all mathematical tools requied for deep learning.
 Current version many 
 
-###NeuralNet Functions
+### NeuralNet Functions
 
 1.Activation functions
 * Sigmoid
@@ -26,7 +26,7 @@ Current version many
 * Adagrad
 * RMSProp
 
-### vision functions 
+### Vision functions 
 1.Convoluion
 * conv2D
 * maxpooling
